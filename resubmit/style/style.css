@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(255, 190, 78);
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: rgb(255, 246, 246);
+    text-align: center;
+  }
+
+div  {
+    background-color: chocolate;
+}
